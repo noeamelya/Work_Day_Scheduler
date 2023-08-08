@@ -1,4 +1,4 @@
-# Third-Party APIs: Work Day Scheduler
+# Third-Party APIs: Daily Planner App
 
 ## DESCRIPTION
 
@@ -43,4 +43,6 @@ My diployedd site of work : https://noeamelya.github.io/Work_Day_Scheduler/
 ## LICENCE
 MIT
 
+## Contact 
+noeamelyaofficial@hotmail.com
 Copyright (c) 2023 N Amelya
