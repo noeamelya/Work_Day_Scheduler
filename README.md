@@ -4,8 +4,6 @@
 
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-You'll need to use the [Day.js](https://day.js.org/docs/en/display/format) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
-
 ## User Story
 
 ```md
@@ -34,10 +32,15 @@ The following animation demonstrates the application functionality:
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](./images/05-third-party-apis-homework-demo.gif)
 
+## DIPLOYED SITE
 
+My diployedd site of work : https://noeamelya.github.io/Work_Day_Scheduler/
 
+## OUTCOME 
+
+[my project challenge](./images/WorkDay.png)
 
 ## LICENCE
 MIT
 
-Copyright (c) 2023 N Amelya# Work_Day_Scheduler
+Copyright (c) 2023 N Amelya
