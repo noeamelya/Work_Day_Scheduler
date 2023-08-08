@@ -38,7 +38,7 @@ My diployedd site of work : https://noeamelya.github.io/Work_Day_Scheduler/
 
 ## OUTCOME 
 
-[my project challenge](./images/WorkDay.png)
+![my project challenge](./images/WorkDay.png)
 
 ## LICENCE
 MIT
